@@ -17,6 +17,8 @@
 2. Make a platfrom that can be use to almost everyone.
 3. [Most Important] Making PHP looks better (lol)
 
+## FAQ
+- Read it here [FAQ]()
 ------
 
 # Get Started
