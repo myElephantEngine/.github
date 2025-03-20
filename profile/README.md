@@ -18,7 +18,7 @@
 3. [Most Important] Making PHP looks better (lol)
 
 ## FAQ
-- Read it here [FAQ]()
+- Read it here [FAQ](https://github.com/myElephantEngine/.github/wiki)
 ------
 
 # Get Started
