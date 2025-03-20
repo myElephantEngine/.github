@@ -1,0 +1,39 @@
+#FAQ (Thing you ask may be here)
+
+## 1. Why you made this?
+> because i think its cool.
+
+## 2. What is wrong with you (-_-")?
+> Idk lol
+
+## 3. is myElephant cross-platform (in developing)?
+> No, For now we focus on Windows only. why? i'm too broke to get Apple product. also too lazy to install linux.
+
+## 4. is myElephant cross-platform (in game distribution)?
+> Not sure, but we hope we can do cross-platform release like an android build.
+
+## 5. is myElephant free to use?
+> 100%!!! Of course, you can use myElephant for free without any paying for a license.
+
+## 6. is myElephant save from game cracker?
+> Absolutely not. all your code will be visible because its a php, we still didnt know how to make a security for your game. or maybe you could invent your own security by yourself?
+
+## 7. is it mean my game is easily to be modded by someone?
+> Yeah, the fact it design the source code quire open. its easy for someone mod your game.
+
+## 8. how i can prevent it?
+> dunno.
+
+## 9. i'm tired of waiting! where the update!
+> Chill, i work alone.
+
+## 10. is myElephant good for big game and ambitious game?
+> Well... maybe, its depent on what your project is. but dont expect that this engine will be really powerfull.
+
+## 11. why myElephant only focus on 2D?
+> first, i suck at physics.
+  second, i dont think 3D is good for this type engine. but if you willing to fork my project and make the 3d version. go for it!
+
+## 12. why its feels so slow...
+> its using php. php is slow
+
